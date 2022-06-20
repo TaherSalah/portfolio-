@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
 /*--------------------------------------------------------------
 General
 --------------------------------------------------------------*/
@@ -29,8 +29,8 @@ h6 {
 }
 
 .myName {
-  font-family: 'Bebas Neue', cursive !important;
-  color: #6e0318b0 !important;
+  font-family: 'Pacifico', cursive !important;
+  color: #3a030e !important;
   letter-spacing: 10px;
 }
 
@@ -354,7 +354,10 @@ section {
 .section-bg {
   background: #f5f8fd;
 }
-
+.section-bg-port{
+  background: #fff;
+  
+}
 .section-title {
   padding-bottom: 30px;
 }
